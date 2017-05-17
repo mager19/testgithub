@@ -5,7 +5,8 @@ body{
 }
 
 .header{
-	background-color: #f1f1f1;
+	background-color: #333333;
+	color:#ffffff;
 	padding: 2em 0;
 	text-align: center;
 }
