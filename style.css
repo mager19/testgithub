@@ -1,3 +1,32 @@
 body{
+<<<<<<< HEAD
 	background-color:red;
+=======
+	background-color: #ffffff;
+	color:#4d4d4d;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.header{
+	background-color: #333333;
+	color:#ffffff;
+	padding: 2em 0;
+	text-align: center;
+}
+
+.header h1{
+	color:#30A9DE;
+	margin-top: 0px;
+}
+
+.header p{
+	margin-left: 30%;
+	width: 40%;
+}
+
+.mas-info{
+	margin-left: 15%;
+	padding: 1em 0;
+	width: 70%
+>>>>>>> 07f424694085ea5a6dbfcc5c17c6ff6e08c60131
 }
